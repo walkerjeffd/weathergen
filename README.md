@@ -5,7 +5,7 @@ weathergen R Package
 
 [http://walkerjeffd.github.io/weathergen](http://walkerjeffd.github.io/weathergen)
 
-> :bangbang: WARNING! This package has been discontinued and is no longer maintained. It may not work using current versions of R.
+> :bangbang: **WARNING! This package has been discontinued and is no longer maintained.** It may not work using the current version of R.
 
 This package will contain functions for generating synthetic daily timeseries of precipitation and air temperature under future climate change scenarios. These timeseries can then be used for performing a climate stress test.
 
